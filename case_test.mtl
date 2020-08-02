@@ -4,7 +4,7 @@
 # 
 
 newmtl Mat_1
-map_Kd Bottom.jpg
+map_Kd https://github.com/abwilson2020/vrtest/blob/master/Bottom.jpg
 Ka 0.000000 0.000000 0.000000
 Kd 0.800000 0.800000 0.800000
 Ks 0.200000 0.200000 0.200000
